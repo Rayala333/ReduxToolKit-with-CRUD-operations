@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "username": "Prasasd",
+      "email": "rayala@123",
+      "phonenumber": "4534657",
+      "id": 1
+    },
+    {
+      "username": "nani",
+      "email": "rayala@123",
+      "phonenumber": "4534657",
+      "id": 2
+    },
+    {
+      "username": "Prasasd",
+      "email": "rayala@123",
+      "phonenumber": "4534657",
+      "id": 3
+    },
+    {
+      "username": "Nani.R",
+      "email": "Prasad@gmail.com",
+      "phonenumber": "12345667",
+      "id": 5
+    },
+    {
+      "username": "rayalaprasad.333",
+      "email": "prasad@123",
+      "phonenumber": "345355645",
+      "id": 6
+    },
+    {
+      "username": "CHINTU.R",
+      "email": "Prasad@gmail.com",
+      "phonenumber": "34356578",
+      "id": 7
+    }
+  ]
+}

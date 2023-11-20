@@ -1,0 +1,21 @@
+.Homecantainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.cart{
+    width: 180px;
+    height: 150px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 10px rgb(77, 72, 72);
+    margin: 2rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.action{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

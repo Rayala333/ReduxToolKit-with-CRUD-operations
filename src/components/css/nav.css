@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap');
+body {
+    font-family: 'Crimson Pro', serif;
+    /* font-size: 48px; */
+    overflow: hidden;
+  }
+  .nav{
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+  }
+  .nav ul li{
+    display: flex;
+    text-decoration: none;
+    float: left;
+    margin-left: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+  }
+  #gsearch{
+    width: 400px;
+    border: none;
+    padding-left: 1rem;
+  }
